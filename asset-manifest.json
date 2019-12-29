@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/venbesttest/static/css/main.8736f041.chunk.css",
+    "main.js": "/venbesttest/static/js/main.61e5a090.chunk.js",
+    "main.js.map": "/venbesttest/static/js/main.61e5a090.chunk.js.map",
+    "runtime-main.js": "/venbesttest/static/js/runtime-main.0a72cfaa.js",
+    "runtime-main.js.map": "/venbesttest/static/js/runtime-main.0a72cfaa.js.map",
+    "static/js/2.6a37ad08.chunk.js": "/venbesttest/static/js/2.6a37ad08.chunk.js",
+    "static/js/2.6a37ad08.chunk.js.map": "/venbesttest/static/js/2.6a37ad08.chunk.js.map",
+    "index.html": "/venbesttest/index.html",
+    "precache-manifest.c2fca323779bbafc6c185192d2501254.js": "/venbesttest/precache-manifest.c2fca323779bbafc6c185192d2501254.js",
+    "service-worker.js": "/venbesttest/service-worker.js",
+    "static/css/main.8736f041.chunk.css.map": "/venbesttest/static/css/main.8736f041.chunk.css.map",
+    "static/js/2.6a37ad08.chunk.js.LICENSE": "/venbesttest/static/js/2.6a37ad08.chunk.js.LICENSE",
+    "static/media/INT20H.css": "/venbesttest/static/media/pattern.dec96521.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a72cfaa.js",
+    "static/js/2.6a37ad08.chunk.js",
+    "static/css/main.8736f041.chunk.css",
+    "static/js/main.61e5a090.chunk.js"
+  ]
+}
