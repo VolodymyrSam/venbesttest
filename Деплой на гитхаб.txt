@@ -1,0 +1,13 @@
+npm install gh-pages --save-dev
+
+"http://{username}.github.io/{repo-name}"
+"homepage": "http://yuribenjamin.github.io/my-app"
+
+"scripts": {
+//...
+"predeploy": "npm run build",
+"deploy": "gh-pages -d build"
+}
+
+#deploy application
+$ npm run deploy
