@@ -20,7 +20,7 @@ import PeopleInfo from './PeopleInfo.js';
 
 const ListPeople = (props) => {
 
-  let Peoples = props.justNeedId.map( info_ID => <PeopleInfo content={info_ID}/>);
+  let Peoples = props.justNeedId.map( (info_ID, index) => <PeopleInfo content={info_ID} index = {index}/>);
   
   return (
     <div className="ListPeople">

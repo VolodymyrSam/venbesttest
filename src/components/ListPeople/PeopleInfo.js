@@ -10,7 +10,7 @@ const PeopleInfo = (props) => {
 
   return (
     <div className="PeopleInfo row justify-content-center">
-    <b className="namber_in_order align-self-center">{"n)"} </b>
+    <b className="namber_in_order align-self-center">{props.index + 1} </b>
     <div className="conteiner">
     <hr></hr>
       <div className="LineOfNameSurname">
